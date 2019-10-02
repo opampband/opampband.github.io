@@ -1,0 +1,17 @@
+html {
+    background-color: #000000;
+}
+body {
+    width: 400px;
+    /* center horizontally */
+    margin: 0 auto;
+    font-family: 'Fira Code', monospace;
+    color: #de5d47;
+}
+h1 {
+    text-align: center;
+    font-weight: normal;
+}
+a {
+    color: #de5d47;
+}
